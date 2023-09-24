@@ -1,0 +1,22 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.hedaer{
+    background-color: rgb(67, 168, 163);
+    display: flex;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+h1{
+    padding-left: 10px;
+}
+.add{
+    right: 0; 
+    position: absolute;
+    margin-right: 10px;
+   
+    /* background-color: mediumpurple; */
+}
